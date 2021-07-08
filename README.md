@@ -4,6 +4,6 @@ Accompanying code for the manuscript _Data augmentation methods applying graysca
 
 ## How-to
 
-First clone the repository and prepare your own dataset.
+Prepare your own dataset. Data augmentation for object detection support for darknet annotation type.
 
-Data augmentation for object detection support for darknet annotation type.
+Clone this repository and edit the "Options.py" with respect to the corresponding path.
