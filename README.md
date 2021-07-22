@@ -10,13 +10,13 @@ Clone this repository and edit the "Options.py" with respect to the correspondin
 
 ## Citation
 
-@Article{app11156721,
-  AUTHOR = {Wang, Jinyeong and Lee, Sanghwan},
-  TITLE = {Data Augmentation Methods Applying Grayscale Images for Convolutional Neural Networks in Machine Vision},
-  JOURNAL = {Applied Sciences},
-  VOLUME = {11},
-  YEAR = {2021},
-  NUMBER = {15},
-  ARTICLE-NUMBER = {6721},
-  DOI = {10.3390/app11156721}
-}
+    @Article{app11156721,
+      AUTHOR = {Wang, Jinyeong and Lee, Sanghwan},
+      TITLE = {Data Augmentation Methods Applying Grayscale Images for Convolutional Neural Networks in Machine Vision},
+      JOURNAL = {Applied Sciences},
+      VOLUME = {11},
+      YEAR = {2021},
+      NUMBER = {15},
+      ARTICLE-NUMBER = {6721},
+      DOI = {10.3390/app11156721}
+    }
